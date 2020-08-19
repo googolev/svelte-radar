@@ -1,3 +1,7 @@
+# description
+
+There are example how to create interactive radar with Svelte and Canvas
+
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template-webpack.
